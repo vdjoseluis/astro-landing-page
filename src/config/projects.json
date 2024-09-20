@@ -3,17 +3,17 @@
         {
             "title": "Farm Land 1",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem id officia cupiditate explicabo natus, ea, corporis consequatur illo rerum obcaecati cumque saepe qui aspernatur vero fuga tenetur in eos iusto dolore quas magnam earum animi molestiae error! Labore, placeat obcaecati nam totam alias consequatur optio aspernatur fuga? Architecto, impedit officia.",
-            "image" : "../assets/fingerPrint.svg"
+            "image" : "/fingerPrint.svg"
         },
         {
             "title": "Farm Land 2",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem id officia cupiditate explicabo natus, ea, corporis consequatur illo rerum obcaecati cumque saepe qui aspernatur vero fuga tenetur in eos iusto dolore quas magnam earum animi molestiae error! Labore, placeat obcaecati nam totam alias consequatur optio aspernatur fuga? Architecto, impedit officia.",
-            "image" : "../assets/fingerPrint.svg"
+            "image" : "/fingerPrint.svg"
         },
         {
             "title": "Farm Land 3",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem id officia cupiditate explicabo natus, ea, corporis consequatur illo rerum obcaecati cumque saepe qui aspernatur vero fuga tenetur in eos iusto dolore quas magnam earum animi molestiae error! Labore, placeat obcaecati nam totam alias consequatur optio aspernatur fuga? Architecto, impedit officia.",
-            "image" : "../assets/fingerPrint.svg"
+            "image" : "/fingerPrint.svg"
         }
     ]
     
